@@ -212,3 +212,8 @@ __marimo__/
 *.db
 *.bz2
 *.gz
+*.db-shm
+*.db-wal
+
+#venv
+c/
